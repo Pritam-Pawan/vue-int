@@ -1,6 +1,6 @@
 {
 "users": [
-{
+   {
   "id": 1,
   "name": "Test",
   "email": "test@gmail.com",
@@ -8,6 +8,15 @@
   "date": "15 Jul 2022",
   "purchased": 5,
   "rating": 5
-}
+  },
+  {
+  "id": 1,
+  "name": "Test",
+  "email": "test@gmail.com",
+  "mbNumber": "123456",
+  "date": "15 Jul 2022",
+  "purchased": 5,
+  "rating": 5
+},
 ]
 }
